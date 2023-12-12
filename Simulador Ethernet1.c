@@ -91,7 +91,7 @@ int main(){
 						
 					}
 				}
-				sleep(2);
+				sleep(1.2);
 				
 			}
 		}
